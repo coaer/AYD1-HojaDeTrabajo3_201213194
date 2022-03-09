@@ -1,0 +1,8 @@
+C:\Universidad\Cursos\analisis1\Hojas de trabajo\HT3_Analisis\HT3_pruebas_C-\[AyD1]HT3_201213194\[AyD1]HT3_201213194\bin\Debug\[AyD1]HT3_201213194.exe.config
+C:\Universidad\Cursos\analisis1\Hojas de trabajo\HT3_Analisis\HT3_pruebas_C-\[AyD1]HT3_201213194\[AyD1]HT3_201213194\bin\Debug\[AyD1]HT3_201213194.exe
+C:\Universidad\Cursos\analisis1\Hojas de trabajo\HT3_Analisis\HT3_pruebas_C-\[AyD1]HT3_201213194\[AyD1]HT3_201213194\bin\Debug\[AyD1]HT3_201213194.pdb
+C:\Universidad\Cursos\analisis1\Hojas de trabajo\HT3_Analisis\HT3_pruebas_C-\[AyD1]HT3_201213194\[AyD1]HT3_201213194\obj\Debug\[AyD1]HT3_201213194.csproj.AssemblyReference.cache
+C:\Universidad\Cursos\analisis1\Hojas de trabajo\HT3_Analisis\HT3_pruebas_C-\[AyD1]HT3_201213194\[AyD1]HT3_201213194\obj\Debug\[AyD1]HT3_201213194.csproj.SuggestedBindingRedirects.cache
+C:\Universidad\Cursos\analisis1\Hojas de trabajo\HT3_Analisis\HT3_pruebas_C-\[AyD1]HT3_201213194\[AyD1]HT3_201213194\obj\Debug\[AyD1]HT3_201213194.csproj.CoreCompileInputs.cache
+C:\Universidad\Cursos\analisis1\Hojas de trabajo\HT3_Analisis\HT3_pruebas_C-\[AyD1]HT3_201213194\[AyD1]HT3_201213194\obj\Debug\[AyD1]HT3_201213194.exe
+C:\Universidad\Cursos\analisis1\Hojas de trabajo\HT3_Analisis\HT3_pruebas_C-\[AyD1]HT3_201213194\[AyD1]HT3_201213194\obj\Debug\[AyD1]HT3_201213194.pdb
